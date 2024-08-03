@@ -15,10 +15,10 @@
 
 # How To Use:
 ## Launch the game by running the executable file.
-## Use the following controls to play the game:
-## WASD keys to move your character.
-## Mouse to aim and shoot.
-## Spacebar to interact with objects and reload.
-## Select a map from the main menu to start playing.
-## Survive against waves of enemies, exploring different areas and strategizing to stay alive.
-## Enjoy the game and try to achieve the highest score possible while surviving the onslaught of mutated infected enemies!
+ - Use the following controls to play the game:
+ - WASD keys to move your character.
+ - Mouse to aim and shoot.
+ - Spacebar to interact with objects and reload.
+ - Select a map from the main menu to start playing.
+ - Survive against waves of enemies, exploring different areas and strategizing to stay alive.
+ - Enjoy the game and try to achieve the highest score possible while surviving the onslaught of mutated infected enemies!
