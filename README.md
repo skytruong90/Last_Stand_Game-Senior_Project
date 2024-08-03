@@ -7,7 +7,7 @@
 ## Last Stand is designed to challenge players as they navigate through different maps, fighting off waves of mutated infected people. The primary objective is to survive as long as possible while eliminating enemies that become progressively harder to defeat. Players can explore various environments, each with unique challenges and aesthetics, providing an engaging and diverse gameplay experience.
 
 # Installation:
-##To install and play Last Stand, follow these steps:
+## To install and play Last Stand, follow these steps:
 
 ## Open the project in Unity.
 ## Build the project for your desired platform (Windows, Mac, etc.).
